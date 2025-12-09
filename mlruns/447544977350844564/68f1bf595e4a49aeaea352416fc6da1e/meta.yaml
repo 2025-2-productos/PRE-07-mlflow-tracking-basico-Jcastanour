@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/juanpablocastanouribe/JUAN%20PABLO%20/SEMESTRE%202025-2/PRODUCTOS%20DATOS/PRE-07-mlflow-tracking-basico-Jcastanour/mlruns/447544977350844564/68f1bf595e4a49aeaea352416fc6da1e/artifacts
+end_time: 1765258168921
+entry_point_name: ''
+experiment_id: '447544977350844564'
+lifecycle_stage: active
+run_id: 68f1bf595e4a49aeaea352416fc6da1e
+run_name: knn_f9d70aeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765258166204
+status: 3
+tags: []
+user_id: juanpablocastanouribe
